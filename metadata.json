@@ -1,0 +1,8 @@
+{
+  "name": "Ollama Hub & Control Center",
+  "description": "A comprehensive dashboard for managing Ollama models, monitoring system health (CPU, RAM, Temp), and interacting with local LLMs via chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

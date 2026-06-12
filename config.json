@@ -1,0 +1,10 @@
+{
+  "ollamaUrl": "http://localhost:11434",
+  "geminiApiKey": "test-key",
+  "generationOptions": {
+    "num_thread": 4,
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "repeat_penalty": 1.1
+  }
+}
