@@ -5,7 +5,8 @@ Bilingual, real-time developer metrics dashboard, model storage analyzer, live p
 
 
 
-for try onlineL:
+for try online:
+
 
 https://ollama-hub-control-center-103739279204.europe-west2.run.app/
 
