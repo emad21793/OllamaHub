@@ -2,8 +2,6 @@
 ### مركز التحكم والتحليل الذكي لاستضافة نماذج أولاما (Ollama) المحلية
 
 Bilingual, real-time developer metrics dashboard, model storage analyzer, live performance benchmarking tool, and unified chat interface.
-
-دليل باللغتين العربية والإنجليزية لتثبيت النظام، تشغيله، ورفعه على منصة **GitHub**.
 for try onlineL:
 https://ollama-hub-control-center-103739279204.europe-west2.run.app/
 ---
